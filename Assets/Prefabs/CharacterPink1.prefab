@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8162017100171048912
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 924530425748820155, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530425748820155, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Color.b
+      value: 0.50980395
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530425748820155, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530425748820155, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3647059
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530425748820157, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Name
+      value: ChLightPurple
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530425778196726, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c708e7ffba9c249801b63feddb74d7, type: 2}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878609, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878610, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Radius
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878610, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_StoppingDistance
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878612, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878614, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_AnimSpeedMultiplier
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878614, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_MoveSpeedMultiplier
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878632, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Radius
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878634, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_Name
+      value: CharacterPink1
+      objectReference: {fileID: 0}
+    - target: {fileID: 924530426340878634, guid: 923861027372fe447bfd58d537487840, type: 3}
+      propertyPath: m_TagString
+      value: PinkGuys
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 923861027372fe447bfd58d537487840, type: 3}

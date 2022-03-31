@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueGuys
+  - GreenGuys
+  - Activators
+  - Settlers
+  - OrangeGuys
+  - Tiles
+  - Capsules
+  - Seats
+  - Environment
+  - RedGuys
+  - PurpleGuys
+  - PinkGuys
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CharacterLayer
+  - Water
+  - UI
+  - ClickActivation
+  - ClickSettler
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
